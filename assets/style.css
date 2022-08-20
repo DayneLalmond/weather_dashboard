@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+#check {
+    background: beige;
+    padding: 10%;
+}
+
+.weather-now {
+    background: whitesmoke;
+    align-items: center;
+    box-shadow: 0 2px 4px 0 #f7f996, 0 2px 4px 0 #f7f996;
+}
+
+.the-form {
+    background: whitesmoke;
+    text-align: center;
+}
+
+.the-submit {
+    position: relative;
+    left: 50px;
+    border: 2px solid #000000;
+}
+
+.called-weather {
+    display: none;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+    box-shadow: 0 2px 4px 0 #f7f996, 0 2px 4px 0 #f7f996;
+}
+
+/* #theCheck :hover {
+    box-shadow: 0 2px 4px 0 #96f4f9, 0 2px 4px 0 #96c9f9;
+} */
