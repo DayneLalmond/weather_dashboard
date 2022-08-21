@@ -1,7 +1,7 @@
 # Weather Now
 
 ## Deployed Link
-https://daynelalmond.github.io/weather-now/
+https://daynelalmond.github.io/weather_dashboard/
 
 ## Screenshot
 ![Capture](./assets/images/Capture.JPG)
