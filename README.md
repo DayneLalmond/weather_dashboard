@@ -4,7 +4,7 @@
 https://daynelalmond.github.io/weather-now/
 
 ## Screenshot
-![Capture](./assets/Capture.JPG)
+![Capture](./assets/images/Capture.JPG)
 
 ## Description
 Weather Now is an application to find and view the current weather of your search.
