@@ -66,8 +66,6 @@ function showWeatherData(data, cityName) {
   document.querySelector("#wind").innerText = "Wind: " + wind + " MPH ❚";
   document.querySelector("#uvi").innerText = "UV: " + uvi;
   forecast(data)
-  addStyle()
-  // calling addClass function
 };
 
 function forecast(data) {
@@ -89,13 +87,4 @@ function forecast(data) {
     select.append(card);
   }
 };
-
-// addclass changes the display and adds animation
-function addStyle() {
-  weatherCard.classList.add("toggler");
-  // adds a class to the 'weatherCard'
-  document.querySelector(".called-weather").style.display = 'block';
-  // changes the CSS style of the class '.called-weather'
-};
-
 
