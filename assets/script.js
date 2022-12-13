@@ -70,7 +70,7 @@ function showWeatherData(data, cityName) {
 
 function forecast(data) {
   // for loop adds the day of the week to each iteration, creates new elements for each and appends to the div
-  for (let i = 0; i < 5; i++) {
+  for (let i = 1; i < 6; i++) {
     var daily = data.daily[i].temp.day;
     var humidity = data.daily[i].humidity;
     var wind = data.daily[i].wind_speed;
